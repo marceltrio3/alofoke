@@ -1,0 +1,2 @@
+# alofoke
+sistema operativo unico
